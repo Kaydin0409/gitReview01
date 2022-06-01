@@ -6,6 +6,7 @@ public class gitreview01 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("I can add this code to github all by myself");
+		System.out.println("This is pretty easy!");
 
 	}
 
